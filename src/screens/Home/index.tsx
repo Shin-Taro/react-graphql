@@ -29,7 +29,7 @@ export const HomeScreen: FC = () => {
       },
     });
 
-    router.push("/user");
+    router.push("/users");
   };
 
   return (
